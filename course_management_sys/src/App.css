@@ -1,0 +1,7 @@
+
+@import "tailwindcss";
+
+
+#scr::-webkit-scrollbar, #chathidescroll::-webkit-scrollbar{
+    display: none;
+}
